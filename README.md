@@ -31,7 +31,7 @@ I'm a passionate Front End Developer with a focus on building dynamic, high-perf
 
 ## 🌱 Currently Learning
 
-- **Full Stack Development**: Expanding my skills to include backend technologies such as Node.js, Express, and databases (MongoDB, SQL).
+- **Full Stack Development**: Expanding my skills to include backend technologies such as Node.js, Express, and databases (MongoDB, SQL) as well as Next.js.
 - **Cloud Technologies**: Working with cloud services like Google Cloud Platform (GCP), Firebase, and Vercel to optimize app deployment and scaling.
 - **Performance Optimization**: Diving deeper into optimizing web performance with Webpack, lazy loading, and code splitting.
 
